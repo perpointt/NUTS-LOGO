@@ -3,20 +3,20 @@
 
 >Добавить в HTML:
 
-<<div class="nuts"></div>>
+  <div class="nuts"></div>
 
 >Добавить в JS:
 
-<const nuts = new Nuts()>
+  const nuts = new Nuts()
   
 ## Полный функционал
 
-<  container: "nuts" //default "#nuts";
+   container: "nuts" //default "#nuts";
    color: #000 //default "#fff";
    hover: #fff //default "#ffad00";
    transition: 2 //default 1;
    lettersAnimation: true //default false;
->
+
 
 
 
