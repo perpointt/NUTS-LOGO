@@ -2,8 +2,10 @@
 ## Установка
 
 >Добавить в HTML:
-
-  <div class="nuts"></div>
+```html
+<div class="nuts"></div>
+``````
+  
 
 >Добавить в JS:
 
