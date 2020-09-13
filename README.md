@@ -7,16 +7,20 @@
 ```
 
 Добавить в JS:
-  
-  const nuts = new Nuts()
+```javascript
+const nuts = new Nuts()
+```
   
 ## Полный функционал
-
+```javascript
+const nuts = new Nuts({
    container: "nuts" //default "#nuts";
    color: #000 //default "#fff";
    hover: #fff //default "#ffad00";
    transition: 2 //default 1;
    lettersAnimation: true //default false;
+});
+```
 
 
 
