@@ -1,14 +1,13 @@
 # NUTS-LOGO
 ## Установка
 
->Добавить в HTML:
+Добавить в HTML:
 ```html
 <div class="nuts"></div>
-``````
+```
+
+Добавить в JS:
   
-
->Добавить в JS:
-
   const nuts = new Nuts()
   
 ## Полный функционал
