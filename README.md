@@ -4,9 +4,7 @@
 Добавить в HTML:
 ```html
 ...
-
 <div class="nuts"></div>
-
 ...
    <script src="nuts.js"></script>
 </body>
