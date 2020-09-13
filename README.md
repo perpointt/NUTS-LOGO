@@ -6,7 +6,8 @@
 ...
 <div class="nuts"></div>
 ...
-   <script src="nuts.js"></script>
+
+<script src="nuts.js"></script>
 </body>
 
 ```
