@@ -10,7 +10,13 @@
 ```javascript
 const nuts = new Nuts()
 ```
-  
+## Опции
+* container(String) - блок в который помещаем логотип,
+* color(String) - основной цвет логотипа,
+* hover(String) - цвет при наведении,
+* transition(Int) - длительность анимации,
+* lettersAnimation(Boolean) - анимировать текст.
+
 ## Полный функционал
 ```javascript
 const nuts = new Nuts({
