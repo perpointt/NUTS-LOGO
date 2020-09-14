@@ -27,11 +27,11 @@ const nuts = new Nuts()
 ## Полный функционал
 ```javascript
 const nuts = new Nuts({
-   container: "nuts" //default "#nuts";
-   color: #000 //default "#fff";
-   hover: #fff //default "#ffad00";
-   transition: 2 //default 1;
-   lettersAnimation: true //default false;
+   container: "#nuts", //default
+   color: "#fff", //default
+   hover: "#ffad00", //default
+   transition: 1, //default
+   lettersAnimation: false //default
 });
 ```
 
